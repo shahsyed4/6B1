@@ -1,1 +1,1 @@
-# 6B1
+# README for activity 6B1
